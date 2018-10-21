@@ -9,6 +9,8 @@
   "author": "Derek",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "@slack/client": "^3.6.0",
+    "express": "^4.16.4",
+    "slack-client": "^2.0.6"
   }
 }
